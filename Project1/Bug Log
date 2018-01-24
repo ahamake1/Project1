@@ -10,13 +10,14 @@ Initial Overview 2018-01-23
 	
 	*Add sufficient comments to Table.java
 
+	*Finish commenting for FOODDriver.java
 
 
 <<Done>>
 =================================
-	*Implemented sufficient commenting for FOODDriver.java
-
 	*Compilation Error(s) with FOODDriver.java >
 											-Commented out an unneeded object utilization [Line ###]
 											-Added method to handle variable parsing [Line ###-###]
 											-Fixed variable parsing [Line ### & ###]
+											
+											(Line number's will change when comments are finished)
